@@ -1,7 +1,7 @@
 {
   "name": "zenbow-pink-syntax",
   "theme": "syntax",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Pink, colourful Zenburn-like syntax theme for Atom.io",
   "repository": "https://github.com/saltire/zenbow-pink-syntax",
   "license": "MIT",
